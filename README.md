@@ -4,9 +4,6 @@ react gym website
 
 Features
 
-https://www.canva.com/design/DAFknPeKXeY/sVmLu0BzZ8Ri-51kz9i-Jg/view?utm_content=DAFknPeKXeY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
-
-
 
 Users can register or login to website view dashboard Pricing Plan, desing transtions and functionality.
 
