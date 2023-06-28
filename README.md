@@ -9,7 +9,7 @@ Features
 https://github.com/NataliaSilva10/FitPeanut/assets/116288733/eed7f443-11dc-4487-8b98-7476583736d6
 
 
-Users can register or login to website view dashboard Pricing Plan, desing transtions and functionality.
+Users can register or login to website view dashboard Pricing Plan, design transitions and functionality,
 
 Example Code
          {/** navigation menu */}
