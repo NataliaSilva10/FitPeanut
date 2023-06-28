@@ -4,7 +4,7 @@ react gym website
 
 Features
 
-Users can register or login to website. view dashboard, Pricing Plan, desing transtions and functionality.
+Users can register or login to website view dashboard Pricing Plan, desing transtions and functionality.
 
 Example Code
          {/** navigation menu */}
