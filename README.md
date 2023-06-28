@@ -2,7 +2,7 @@
 react gym website 
 
 
-Features
+#Features
 
 
 
@@ -36,6 +36,8 @@ Example Code
 };
 
 export default Header;
+
+#technologies
 JAVASCRIPT
 CSS/HTML
 REACT
