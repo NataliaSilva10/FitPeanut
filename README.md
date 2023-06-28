@@ -3,6 +3,7 @@ react gym website
 
 
 Features
+https://github.com/NataliaSilva10/FitPeanut/issues/1#issue-1779307962
 
 
 Users can register or login to website view dashboard Pricing Plan, desing transtions and functionality.
