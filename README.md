@@ -4,7 +4,7 @@ react gym website
 
 Features
 
-<video> https://github.com/NataliaSilva10/FitPeanut/assets/116288733/b3726199-031d-4ba1-a8ad-b09dc91f5c13</video>
+https://www.canva.com/design/DAFknPeKXeY/sVmLu0BzZ8Ri-51kz9i-Jg/view?utm_content=DAFknPeKXeY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 
 
